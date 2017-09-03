@@ -11,9 +11,7 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="938520e5-da8b-48f6-a4e4-bf86af4e7416" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="938520e5-da8b-48f6-a4e4-bf86af4e7416" name="Default" comment="" />
     <ignored path="LeetCode-Codewars-cpp-questions.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +53,8 @@
       <file leaf-file-name="ReverseInteger.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReverseInteger.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="103" selection-start-line="24" selection-start-column="103" selection-end-line="24" selection-end-column="103" />
+            <state relative-caret-position="204">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
               <folding>
                 <element signature="e#319#338#0" expanded="true" />
               </folding>
@@ -321,12 +319,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503919702923</updated>
-      <workItem from="1503919704701" duration="5732000" />
+      <workItem from="1503919704701" duration="6368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5732000" />
+    <option name="totallyTimeSpent" value="6368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="0" />
@@ -386,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReverseInteger.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="103" selection-start-line="24" selection-start-column="103" selection-end-line="24" selection-end-column="103" />
+        <state relative-caret-position="204">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
           <folding>
             <element signature="e#319#338#0" expanded="true" />
           </folding>
