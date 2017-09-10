@@ -11,9 +11,7 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="938520e5-da8b-48f6-a4e4-bf86af4e7416" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReverseInteger.cpp" afterPath="$PROJECT_DIR$/ReverseInteger.cpp" />
-    </list>
+    <list default="true" id="938520e5-da8b-48f6-a4e4-bf86af4e7416" name="Default" comment="" />
     <ignored path="LeetCode-Codewars-cpp-questions.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +53,7 @@
       <file leaf-file-name="ReverseInteger.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReverseInteger.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="379">
               <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="e#319#338#0" expanded="true" />
@@ -321,12 +319,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503919702923</updated>
-      <workItem from="1503919704701" duration="8974000" />
+      <workItem from="1503919704701" duration="10769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8974000" />
+    <option name="totallyTimeSpent" value="10769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="1" />
@@ -386,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReverseInteger.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="379">
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="e#319#338#0" expanded="true" />
