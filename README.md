@@ -10,3 +10,4 @@ Longest Palindrome          https://leetcode.com/problems/longest-palindrome/des
 Valid Parentheses           https://leetcode.com/problems/valid-parentheses/description/
 DeleteNodeInLinkedList      https://leetcode.com/problems/delete-node-in-a-linked-list/description/
 Contains Duplicate          https://leetcode.com/problems/contains-duplicate/description/
+Generate Parentheses        https://leetcode.com/problems/generate-parentheses/description/
