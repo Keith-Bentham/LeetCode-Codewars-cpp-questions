@@ -8,3 +8,4 @@ Reverse String              https://leetcode.com/problems/reverse-string/discuss
 Reverse Linked List         https://leetcode.com/problems/reverse-linked-list/description/
 Longest Palindrome          https://leetcode.com/problems/longest-palindrome/description/
 Valid Parentheses           https://leetcode.com/problems/valid-parentheses/description/
+DeleteNodeInLinkedList      https://leetcode.com/problems/delete-node-in-a-linked-list/description/
