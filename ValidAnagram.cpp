@@ -18,9 +18,4 @@ public:
             if (counts[i]) return false;
         return true;
     }
-
-    int main(){
-        ValidAnagram va;
-        std::cout << va.isAnagram("rat", "cat");
-    }
 };
