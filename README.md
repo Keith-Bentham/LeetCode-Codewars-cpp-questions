@@ -13,3 +13,4 @@ Contains Duplicate          https://leetcode.com/problems/contains-duplicate/des
 Generate Parentheses        https://leetcode.com/problems/generate-parentheses/description/
 Valid Anagram               https://leetcode.com/problems/valid-anagram/description/
 Roman to Integer            https://leetcode.com/problems/roman-to-integer/description/
+Relative Ranks              https://leetcode.com/problems/relative-ranks/description/
