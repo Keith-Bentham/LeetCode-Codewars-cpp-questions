@@ -2,7 +2,6 @@
 // Created by Keith Bentham
 //
 
-#include <iostream>
 class ExcelSheetColumnNumber {
 public:
     int titleToNumber(string s) {
