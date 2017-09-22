@@ -11,9 +11,7 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="938520e5-da8b-48f6-a4e4-bf86af4e7416" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="938520e5-da8b-48f6-a4e4-bf86af4e7416" name="Default" comment="" />
     <ignored path="LeetCode-Codewars-cpp-questions.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -395,15 +393,15 @@
       <workItem from="1505152394080" duration="5373000" />
       <workItem from="1505382278930" duration="12286000" />
       <workItem from="1505498666127" duration="22679000" />
-      <workItem from="1506011202483" duration="5000" />
+      <workItem from="1506011202483" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51899000" />
+    <option name="totallyTimeSpent" value="52491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09947917" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
