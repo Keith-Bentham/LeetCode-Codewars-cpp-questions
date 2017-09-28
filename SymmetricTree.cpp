@@ -24,7 +24,7 @@ public:
             return true;
         } else if (!p || !q) {
             return false;
-        } 
+        }
         if (p->val != q->val) {
             return false;
         }
